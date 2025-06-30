@@ -16,6 +16,7 @@
 * [Death of a thousand nits](https://bitfieldconsulting.com/posts/code-review)
 * [Caching challenges and strategies](https://aws.amazon.com/builders-library/caching-challenges-and-strategies/)
 * [AI and the Rise of Judgement Over Technical Skill](https://notsocommonthoughts.com/blog/ai-and-judgement/)
+* [Context engineering](https://www.philschmid.de/context-engineering)
 
 ## Impact
 * [Getting Big Things Done](https://brooker.co.za/blog/2020/10/19/big-changes.html)
