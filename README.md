@@ -18,6 +18,7 @@
 * [AI and the Rise of Judgement Over Technical Skill](https://notsocommonthoughts.com/blog/ai-and-judgement/)
 * [Context engineering](https://www.philschmid.de/context-engineering)
 * [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
+* [Locality of behavior](https://htmx.org/essays/locality-of-behaviour/)
 
 ## Impact
 * [Getting Big Things Done](https://brooker.co.za/blog/2020/10/19/big-changes.html)
