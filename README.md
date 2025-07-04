@@ -18,7 +18,7 @@
 * [AI and the Rise of Judgement Over Technical Skill](https://notsocommonthoughts.com/blog/ai-and-judgement/)
 * [Context engineering](https://www.philschmid.de/context-engineering)
 * [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
-* [Locality of behavior](https://htmx.org/essays/locality-of-behaviour/)
+* [Locality of behavior (LOB)](https://htmx.org/essays/locality-of-behaviour/)
 * [Don't repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [Avoid hasty abstractions (AHA)](https://vladimirzdrazil.com/posts/aha-principle/)
 * [Avoiding Premature Software Abstractions](https://betterprogramming.pub/avoiding-premature-software-abstractions-8ba2e990930a)
