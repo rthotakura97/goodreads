@@ -19,8 +19,11 @@
 * [Context engineering](https://www.philschmid.de/context-engineering)
 * [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
 * [Locality of behavior](https://htmx.org/essays/locality-of-behaviour/)
+* [Don't repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Avoid hasty abstractions (AHA)](https://vladimirzdrazil.com/posts/aha-principle/)
+* [Avoiding Premature Software Abstractions](https://betterprogramming.pub/avoiding-premature-software-abstractions-8ba2e990930a)
 
-## Impact
+##  Impact
 * [Getting Big Things Done](https://brooker.co.za/blog/2020/10/19/big-changes.html)
 * [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](https://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf)
 
