@@ -33,3 +33,4 @@
 
 ## Life
 * [The Time Billionaire: A Concept That Changed My Life](https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life)
+* [Your Life In Weeks](https://waitbutwhy.com/2014/05/life-weeks.html)
