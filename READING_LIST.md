@@ -30,3 +30,6 @@
 * [Getting Big Things Done](https://brooker.co.za/blog/2020/10/19/big-changes.html)
 * [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](https://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf)
 
+
+# Life
+* [The Time Billionaire: A Concept That Changed My Life](https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life)
