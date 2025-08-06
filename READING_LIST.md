@@ -31,5 +31,5 @@
 * [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](https://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf)
 
 
-# Life
+## Life
 * [The Time Billionaire: A Concept That Changed My Life](https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life)
