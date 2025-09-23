@@ -14,6 +14,8 @@
 * [Fixing retries with token buckets and circuit breakers](https://brooker.co.za/blog/2022/02/28/retries.html)
 * [Not Just Scale](https://brooker.co.za/blog/2024/06/04/scale.html)
 * [Caching challenges and strategies](https://aws.amazon.com/builders-library/caching-challenges-and-strategies/)
+* [Surprising Scalability of Multitenancy](https://brooker.co.za/blog/2023/03/23/economics.html)
+* [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
 
 ## Dev
 * [Death of a thousand nits](https://bitfieldconsulting.com/posts/code-review)
