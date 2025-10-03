@@ -16,6 +16,7 @@
 * [Caching challenges and strategies](https://aws.amazon.com/builders-library/caching-challenges-and-strategies/)
 * [Surprising Scalability of Multitenancy](https://brooker.co.za/blog/2023/03/23/economics.html)
 * [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
+* [AWS re:Invent 2024 - Deep dive into Amazon Aurora DSQL and its architecture](https://youtu.be/huGmR_mi5dQ?si=i6vYtHvH9vAQuwaH)
 
 ## Dev
 * [Death of a thousand nits](https://bitfieldconsulting.com/posts/code-review)
