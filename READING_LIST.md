@@ -2,6 +2,7 @@
 # Reading List
 
 ## Systems
+* [Designing Data-Intensive Applications](https://a.co/d/1NAtMWc)
 * [Avoiding fallback in distributed systems](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/?did=ba_card&trk=ba_card)
 * [Avoiding insurmountable queue backlogs](https://aws.amazon.com/builders-library/avoiding-insurmountable-queue-backlogs/?did=ba_card&trk=ba_card)
 * [Caching challenges and strategies](https://aws.amazon.com/builders-library/caching-challenges-and-strategies/?did=ba_card&trk=ba_card)
