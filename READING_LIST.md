@@ -19,6 +19,7 @@
 * [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
 * [AWS re:Invent 2024 - Deep dive into Amazon Aurora DSQL and its architecture](https://youtu.be/huGmR_mi5dQ?si=i6vYtHvH9vAQuwaH)
 * [How Complex Systems Fail](https://how.complexsystems.fail/)
+* [Hacker Laws](https://hacker-laws.com/)
 
 ## Dev
 * [Death of a thousand nits](https://bitfieldconsulting.com/posts/code-review)
