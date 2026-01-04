@@ -36,6 +36,7 @@
 * [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
 * [Getting Big Things Done](https://brooker.co.za/blog/2020/10/19/big-changes.html)
 * [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](https://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf)
+* [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 
 
 ## Life
