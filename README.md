@@ -29,6 +29,7 @@
 * [Avoiding Premature Software Abstractions](https://betterprogramming.pub/avoiding-premature-software-abstractions-8ba2e990930a)
 * [Context engineering](https://www.philschmid.de/context-engineering)
 * Advanced Context Engineering for Agents ([video](https://www.youtube.com/watch?v=IS_y40zY-hc))([article](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md))
+* [10 Claude Code Tips from Boris](https://ykdojo.github.io/claude-code-tips/content/boris-claude-code-tips)
 
 
 ## Career + Impact
